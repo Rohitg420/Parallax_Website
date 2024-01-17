@@ -7,6 +7,10 @@ Welcome to the Parallax Website! This project showcases a simple webpage with pa
 
 The Parallax Website is designed to provide an engaging and visually appealing experience. It combines sections that discuss the beauty of nature and the significance of coding, each accompanied by parallax scrolling effects for a dynamic presentation.
 
+## Demo
+
+Check out the live demo [Click here](https://bejewelled-cranachan-8ec10d.netlify.app).
+
 ## Features
 
 - Parallax scrolling effects for a visually immersive experience.
